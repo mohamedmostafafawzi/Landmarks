@@ -1,2 +1,2 @@
 # Landmarks
-Landmarks is an iOS app create by SwiftUI, Following Apple's SwiftUI Tutorial.
+Landmarks is an iOS app created by SwiftUI, Following [Apple's SwiftUI Tutorial](https://developer.apple.com/tutorials/swiftui).
